@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KAUSHAL SETHIA</h1>
 <h2 align="center">I'm a passionate Data Analyst</h2>
-<h3 align="center"> I enjoy creating self-learning applications that are able to provide accurate predictions through the given data!!</h3>
+<h3 align="left"> I enjoy creating self-learning applications that are able to provide accurate predictions through the given data!!</h3>
 <h4>- 👀 I’m interested in Python,HTML ,CSS ,MYSQL</h4>
 <h4>- 💬 Ask me about PYTHON,HTML ,CSS ,MYSQL</h4>
 <h4>- 💞️ I’m looking to collaborate on ... TO MAKE PROJECTS USING PYTHON</h4>
