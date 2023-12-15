@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...  ,HTML ,CSS ,MYSQL 
 - 💞️ I’m looking to collaborate on ... TO MAKE PROJECTS USING PYTHON 
 - 📫 How to reach me ... You can reach me mailing me on kaushalsethia01@gmail.com
-  <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kaushal-sethia-5b7a6b16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anirud-mohan-066631252" height="30" width="40" /></a>
 </p>
