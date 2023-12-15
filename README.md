@@ -4,7 +4,7 @@
 <h4>- 👀 I’m interested in Python,HTML ,CSS ,MYSQL</h4>
 <h4>- 💬 Ask me about PYTHON,HTML ,CSS ,MYSQL</h4>
 <h4>- 💞️ I’m looking to collaborate on ... TO MAKE PROJECTS USING PYTHON AND MYSQL</h4>
-- 📫 How to reach me ... You can reach me mailing me on kaushalsethia01@gmail.com
+- 📫 How to reach me -> You can reach me mailing me on kaushalsethia01@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kaushal-sethia-5b7a6b16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaushal-sethia-5b7a6b16a/" height="30" width="40" /></a>
