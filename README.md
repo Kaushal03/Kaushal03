@@ -2,13 +2,9 @@
 <h2 align="center">I'm a passionate Data Analyst</h2>
 <h3 align="center"> I enjoy creating self-learning applications that are able to provide accurate predictions through the given data!!</h3>
 - 👀 I’m interested in Python,HTML ,CSS ,MYSQL 
-
 - 💬 Ask me about PYTHON,HTML ,CSS ,MYSQL
-- 
 - 💞️ I’m looking to collaborate on ... TO MAKE PROJECTS USING PYTHON
-- 
 - 📫 How to reach me ... You can reach me mailing me on kaushalsethia01@gmail.com
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kaushal-sethia-5b7a6b16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaushal-sethia-5b7a6b16a/" height="30" width="40" /></a>
