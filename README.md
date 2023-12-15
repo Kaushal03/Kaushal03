@@ -3,7 +3,7 @@
 <h3 align="left"> I enjoy creating self-learning applications that are able to provide accurate predictions through the given data!!</h3>
 <h4>- 👀 I’m interested in Python,HTML ,CSS ,MYSQL</h4>
 <h4>- 💬 Ask me about PYTHON,HTML ,CSS ,MYSQL</h4>
-<h4>- 💞️ I’m looking to collaborate on ... TO MAKE PROJECTS USING PYTHON</h4>
+<h4>- 💞️ I’m looking to collaborate on ... TO MAKE PROJECTS USING PYTHON AND MYSQL</h4>
 <h4>- 📫 How to reach me ... You can reach me mailing me on kaushalsethia01@gmail.com</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
