@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KAUSHAL SETHIA</h1>
 <h2 align="center">I'm a passionate Data Analyst</h2>
 <h3 align="center"> I enjoy creating self-learning applications that are able to provide accurate predictions through the given data!!</h3>
-- 👀 I’m interested in Python,HTML ,CSS ,MYSQL 
+- 👀 I’m interested in Python,HTML ,CSS ,MYSQL
 - 💬 Ask me about PYTHON,HTML ,CSS ,MYSQL
 - 💞️ I’m looking to collaborate on ... TO MAKE PROJECTS USING PYTHON
 - 📫 How to reach me ... You can reach me mailing me on kaushalsethia01@gmail.com
